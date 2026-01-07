@@ -1,4 +1,4 @@
-                                                       # Spencer retail Analysis 
+                                                       #Spencer retail Analysis 
 													   
 _Analysis of spencer’s retail sales trends by stores, product categories & locations to support the strategic and planning decision’s using Excel, SQL and Tableau_
 
