@@ -1,4 +1,5 @@
-                                                       #Spencer retail Analysis 
+>
+>  # Spencer retail Analysis 
 													   
 _Analysis of spencer’s retail sales trends by stores, product categories & locations to support the strategic and planning decision’s using Excel, SQL and Tableau_
 
@@ -30,34 +31,7 @@ Data is sourced from Kaggle for analysis & is in multiple CSV files. Kaggle [Dat
 1)	Spencer’s offer 6 product categories with 23 different subcategories of products across all 10 cities 
 ### Transactions
 1)	Most preferred store type by customers is e-shop with 40 % share, double of all other store types
-2)	Top subcategory in each category is as follows:
-
-
-|Product category|	|Top subcategory|	|Share (in category)|
-|Bags|
---------	|Women|
------------	|56%|
--------------
-|Books|
----------	|Comics|
------------	|25%|
------------
-|Clothing|
-----------	|Men|
------------	|41%|
------------
-|Electronics| 
-----------	|Mobile|
------------- 	|41%|
-------------
-|Footwear |
------------	|Kids |
-----------	|40%|
-----------
-|Home & Kitchens|
-	|Kitchen items|	|37%|
-
-3)	Highest sales are in month of Jan & Feb and lowest sales for spencer retails are in month of May & June. 
+2)	Highest sales are in month of Jan & Feb and lowest sales for spencer retails are in month of May & June. 
 
 ## Key Findings
 The analysis reveals a consistent downward trend across all key business metrics. Sales revenue and no_of_customer have declined across all product categories and geographical locations, indicating systemic challenges rather than isolated issues.
@@ -66,9 +40,9 @@ Critical Challenge: Customer Acquisition Decline The primary driver of declining
 Customer Retention vs. Acquisition Gap Despite maintaining a loyal customer base with strong retention metrics, the declining influx of new customers is eroding overall market share and revenue potential. This imbalance threatens long-term business viability.
 
 ## Recommendations 
-**Enhanced Promotional Strategy:** Implement targeted marketing campaigns and promotional offers specifically designed to attract new customer segments
-1.	**Product Portfolio Expansion: ** Diversify inventory offerings to appeal to broader customer demographics and capture untapped market segments
-2.	**Balanced Growth Approach: **Maintain existing customer satisfaction initiatives while simultaneously investing in aggressive new customer acquisition programs
+**Enhanced Promotional Strategy**: Implement targeted marketing campaigns and promotional offers specifically designed to attract new customer segments
+1.	**Product Portfolio Expansion**: Diversify inventory offerings to appeal to broader customer demographics and capture untapped market segments
+2.	**Balanced Growth Approach**:Maintain existing customer satisfaction initiatives while simultaneously investing in aggressive new customer acquisition programs
 Spencer Retail must urgently address the new customer acquisition gap through multi-channel marketing initiatives and expanded product offerings, while preserving the strong loyalty of its existing customer base.
 
 ## Dashboard
@@ -79,6 +53,6 @@ Dashboard link for reference:-  [Dashboard link]
 
 
 ##Author: 
-Himanshu Trivedi.
-WFM MIS Specialist.
-Email : Himanshu90tri@gmail.com .
+Himanshu Trivedi
+WFM MIS Specialist
+Email : Himanshu90tri@gmail.com
